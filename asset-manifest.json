@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Advice-Guru/static/css/main.29c62986.css",
+    "main.js": "/Advice-Guru/static/js/main.a7cd86de.js",
+    "static/js/787.6107707c.chunk.js": "/Advice-Guru/static/js/787.6107707c.chunk.js",
+    "static/media/back.jpg": "/Advice-Guru/static/media/back.512bb0844d3a3d8798fc.jpg",
+    "index.html": "/Advice-Guru/index.html",
+    "main.29c62986.css.map": "/Advice-Guru/static/css/main.29c62986.css.map",
+    "main.a7cd86de.js.map": "/Advice-Guru/static/js/main.a7cd86de.js.map",
+    "787.6107707c.chunk.js.map": "/Advice-Guru/static/js/787.6107707c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c62986.css",
+    "static/js/main.a7cd86de.js"
+  ]
+}
